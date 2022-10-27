@@ -1,7 +1,5 @@
 - Hi, I’m @Troutt025
-- I’m interested in primarily video games and niche useful applications like addons for programs.
-- I’m currently learning Java, but a little of everything.
-- I’m looking to collaborate on anything I can.
+- I know Java, C++, Javascript, Jupyter, and Batch. But I am always looking to learn more.
 - How to reach me: troutt025@gmail.com
 
 <!---
