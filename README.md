@@ -1,5 +1,5 @@
 - Hi, I’m @Troutt025
-- I know Java, C++, Javascript, Jupyter, and Batch. But I am always looking to learn more.
+- I know Java, C/C++, Javascript, Jupyter, Python, and Batch. But I am always looking to learn more.
 - How to reach me: troutt025@gmail.com
 
 <!---
